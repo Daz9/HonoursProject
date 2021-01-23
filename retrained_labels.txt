@@ -1,0 +1,17 @@
+bathroom
+bedroom
+children room
+classroom
+closet
+corridor
+dining room
+fastfood restaurant
+garage
+gym
+kitchen
+livingroom
+mug
+office
+pantry
+restaurant
+stairscase
